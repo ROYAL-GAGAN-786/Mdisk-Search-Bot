@@ -3,7 +3,7 @@
 We have to use Bot for Inline Search & Userbot for Searching in Channels. So both Bot & Userbot will work together.
 
 ## Installation
-## [Tutorial Video](https://youtu.be/e0h_cpB6mSM)
+## [Tutorial Video](https://youtube.com/@SANAMMehra-xg5im)
 <details><summary><b>Deploy to Heroku</b></summary>
 <p>
 <br>
@@ -38,6 +38,3 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 
 # Subscribe 
 
-1) https://youtube.com/@greymattersyt
-
-2) https://youtube.com/@GreyMattersBot
